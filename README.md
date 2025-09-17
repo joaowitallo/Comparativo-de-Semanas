@@ -35,7 +35,7 @@ O relatório contém páginas e visuais como:
 ---
 
 ## 🚀 Como Usar
-.
+1. [Baixe o arquivo Comp Semana1 Ago x Set.pbit](https://github.com/joaowitallo/Comparativo-de-Semanas/raw/refs/heads/main/Comp%20Semana1%20Ago%20x%20Set.pbit)
 2. Abra no **Power BI Desktop** (versão 64 bits recomendada).  
 3. Interaja com os filtros, segmentações e gráficos para explorar os insights.  
 

@@ -3,9 +3,9 @@
 Este repositório contém um projeto **real** desenvolvido em **Power BI Desktop** para análise corporativa.  
 O objetivo principal foi comparar o desempenho da **primeira semana de Agosto com a primeira semana de Setembro**, identificando tendências e apoiando a tomada de decisão estratégica.
 
-![Foto 3](/Foto3.png)
-![Foto 2](/Foto2.png)
 ![Foto 1](/Foto1.png)
+![Foto 2](/Foto2.png)
+![Foto 3](/Foto3.png)
 
 ---
 
@@ -35,7 +35,7 @@ O relatório contém páginas e visuais como:
 ---
 
 ## 🚀 Como Usar
-Baixe o arquivo [`Comp_Semana1_Ago_x_Set.pbix`](Comp_Semana1_Ago_x_Set.pbix).
+1. Baixe o arquivo [`Comp_Semana1_Ago_x_Set.pbix`](https://github.com/joaowitallo/Comparativo-de-Semanas/raw/main/Comp_Semana1_Ago_x_Set.pbix).  
 2. Abra no **Power BI Desktop** (versão 64 bits recomendada).  
 3. Interaja com os filtros, segmentações e gráficos para explorar os insights.  
 
@@ -48,4 +48,5 @@ Baixe o arquivo [`Comp_Semana1_Ago_x_Set.pbix`](Comp_Semana1_Ago_x_Set.pbix).
 ---
 
 ✍️ **Autor:** João
+
 

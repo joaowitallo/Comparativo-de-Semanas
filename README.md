@@ -35,7 +35,7 @@ O relatório contém páginas e visuais como:
 ---
 
 ## 🚀 Como Usar
-1.[Baixe o arquivo Comp_Semana1_Ago_x_Set.pbix](ProjetoSemanaxSemana/Comp_Semana1_Ago_x_Set.pbix).
+1.[Baixe o arquivo Comp_Semana1_Ago_x_Set.pbix](PK).
 2. Abra no **Power BI Desktop** (versão 64 bits recomendada).  
 3. Interaja com os filtros, segmentações e gráficos para explorar os insights.  
 
